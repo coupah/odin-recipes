@@ -1,0 +1,29 @@
+h2 {
+    text-align: right;
+    color: green;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+}
+
+img {
+    width: 100px;
+    height: auto;
+    background-color: cornflowerblue;
+    border-image: fill;
+    padding:10px;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+   
+}
+
+em {
+    color: blueviolet;
+  
+}
